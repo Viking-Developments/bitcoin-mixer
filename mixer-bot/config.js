@@ -30,11 +30,9 @@ const FAQ_PAGE =
 <strong>A:</strong> After placing your request, we send you our PGP-signed letter of guarantee, containing all the details of our deal, including the input address for your coins. Save and keep this letter; it will be an infallible proof of our obligations in case you suspect any malfunction or fraud.`;
 
 const CONTACT_US_PAGE =
-`<strong>Clearnet:</strong> https://jambler.io
-<strong>Tor:</strong> jambler2zgfnjykq.onion
-<strong>Email:</strong> support@jambler.io
-<strong>Reddit:</strong> reddit.com/user/Jambler_io
-<strong>Bitcoin Talk:</strong> bitcointalk.org/index.php?topic=4667343`;
+`<strong>Clearnet:</strong> https://humpmixer.xyz
+<strong>Email:</strong> support@humpmixer.xyz
+
 
 const DDOS_PROTECTION_PAGE = `DDOS_PROTECTION`;
 
