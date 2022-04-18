@@ -229,7 +229,7 @@
 
 # Clone the partner mixer repo
 
-	GIT_ADDRESS="https://github.com/jambler-io/bitcoin-mixer.git"
+	GIT_ADDRESS="https://github.com/Viking-Developments/bitcoin-mixer.git"
 	PKG_DIRECTORY="/tmp/distribution"
 	waitForTask "git clone ${GIT_ADDRESS} ${PKG_DIRECTORY}" \
 				"Cloning the partner mixer repository..."
